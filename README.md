@@ -10,7 +10,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por resolver
 - 🐍 Focado em **Python** e desenvolvimento de software
 - 🛠️ Gosto de construir projetos que simulam situações do mundo real
 - 🌱 Atualmente aprendendo mais sobre **banco de dados** e **desenvolvimento web**
-- 📍 Vitória, ES — Brasil
+- 📍 Cariacica, ES — Brasil
 
 ---
 

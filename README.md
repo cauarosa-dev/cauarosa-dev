@@ -28,7 +28,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por resolver
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [crud-python-sqlite](https://github.com/cauarosa-dev/crud-python-sqlite) | CRUD de clientes com verificação de CPF e menu interativo | Python, SQLite |
-| [inventory-manager-python](https://github.com/cauarosa-dev/inventory-manager-python) | Sistema de controle de estoque com operações via terminal | Python, SQLite |
 | [analise-de-idades-python](https://github.com/cauarosa-dev/analise-de-idades-python) | Análise e classificação de idades | Python |
 
 ---

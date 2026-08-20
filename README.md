@@ -9,7 +9,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por resolver
 - 📚 Cursando **ADS** e aprendendo programação na prática
 - 🐍 Focado em **Python** e desenvolvimento de software
 - 🛠️ Gosto de construir projetos que simulam situações do mundo real
-- 🌱 Atualmente aprendendo mais sobre **banco de dados** e **desenvolvimento web**
+- 🌱 Atualmente aprendendo mais sobre banco de dados e desenvolvimento backend**
 - 📍 Cariacica, ES — Brasil
 
 ---
@@ -44,7 +44,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por resolver
 
 ## 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-silva-fraga-farias-rosa-a04167269/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcauarosa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauasilvafraga)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauarosa-dev)
 
